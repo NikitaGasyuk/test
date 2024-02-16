@@ -1,0 +1,2 @@
+#коментарий
+print("hello world")
